@@ -19,16 +19,21 @@ class StartHere
     city = answer[0]
     state = answer[1]
 
+    puts "---------------------------------------"
     curr_weather = WeatherClient.new(zip_code)
     curr_weather.return_current_weather
+
+    puts "---------------------------------------"
 
     puts "warning. large block of text incoming. hit enter to continue"
     gets
     ten_day_forcast = WeatherClient10Day.new(state,city)
     ten_day_forcast.return_ten_day_weather
 
+    puts "---------------------------------------"
     astronomy = WeatherClientMoon.new(state,city)
     astronomy.return_sunrise_sunset
+    puts "---------------------------------------"
 
     alerts = WeatherClientAlerts.new(state,city)
     alerts.return_alerts
