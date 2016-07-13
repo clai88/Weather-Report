@@ -25,5 +25,17 @@ class WeatherClient10Day
       end
     end
     puts
-  end
+  end  
+
+  # arr = result["forecast"]["txt_forecast"]["forecastday"]
+  # arr.each do |i|
+  #   if i%2 == 0
+  #     fct = arr[i]["fcttext"]
+  #     day = arr[i]/2
+  #     puts "The weather for day #{day} is #{fct}"
+  #
+  #   end
+  # end
+
+
 end

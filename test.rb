@@ -93,5 +93,4 @@ class ForecastTest < Minitest::Test
     w.return_alerts
     #w.return_sunrise_sunset
   end
-
 end
