@@ -1,0 +1,438 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"MD",
+		"city":"Potomac",
+		"tz_short":"EDT",
+		"tz_long":"America/New_York",
+		"lat":"39.02873993",
+		"lon":"-77.24093628",
+		"zip":"20854",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:20854.1.99999",
+		"requesturl":"US/MD/Potomac.html",
+		"wuiurl":"https://www.wunderground.com/US/MD/Potomac.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Gaithersburg", "state":"MD", "country":"US", "icao":"KGAI", "lat":"39.16725159", "lon":"-77.16142273" }
+		,{ "city":"Dulles Airport", "state":"VA", "country":"US", "icao":"KIAD", "lat":"38.93484116", "lon":"-77.44728088" }
+		,{ "city":"Washington", "state":"DC", "country":"US", "icao":"KDCA", "lat":"38.84719849", "lon":"-77.03455353" }
+		,{ "city":"Leesburg", "state":"VA", "country":"US", "icao":"KJYO", "lat":"39.07797241", "lon":"-77.55750275" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Jeffery Road",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT11",
+		"lat":39.022022,
+		"lon":-77.260124,
+		"distance_km":1,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Potomac",
+		"city":"Potomac",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDPOTOM5",
+		"lat":39.024765,
+		"lon":-77.211441,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Meriden Road",
+		"city":"Potomac",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDPOTOM8",
+		"lat":39.011086,
+		"lon":-77.205742,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Blackmore Vale Way",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT20",
+		"lat":39.037601,
+		"lon":-77.288757,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Rock Run Drive",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV44",
+		"lat":38.993862,
+		"lon":-77.219925,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Falcon Ridge",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT4",
+		"lat":39.040283,
+		"lon":-77.292580,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Harewood Court",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT10",
+		"lat":39.034698,
+		"lon":-77.294769,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Greenhill Street",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT15",
+		"lat":39.026428,
+		"lon":-77.295662,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Green Acres",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT23",
+		"lat":39.002434,
+		"lon":-77.302818,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Great Falls VA",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT7",
+		"lat":39.013100,
+		"lon":-77.312103,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"MD3839",
+		"lat":39.013081,
+		"lon":-77.312103,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Valley Drive",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV23",
+		"lat":39.077133,
+		"lon":-77.200119,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Inverness Ridge Road",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV29",
+		"lat":39.029865,
+		"lon":-77.166382,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Bradley Hills",
+		"city":"Potomac",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDBETHE12",
+		"lat":38.996254,
+		"lon":-77.176430,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Great Falls - White Chimney Lane",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT17",
+		"lat":38.971039,
+		"lon":-77.263771,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Potomac Woods",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV10",
+		"lat":39.060059,
+		"lon":-77.170815,
+		"distance_km":6,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Willow Tree Drive",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV40",
+		"lat":39.086552,
+		"lon":-77.200867,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Great Falls",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT24",
+		"lat":39.016277,
+		"lon":-77.325829,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Whirlaway",
+		"city":"North Potomac",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDNORTH24",
+		"lat":39.094559,
+		"lon":-77.258011,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Charred Oak Drive",
+		"city":"Bethesda",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDBETHE20",
+		"lat":39.003201,
+		"lon":-77.160202,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Elmview Place",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT13",
+		"lat":39.026855,
+		"lon":-77.328369,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Tuckahoe Way",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV36",
+		"lat":39.096954,
+		"lon":-77.223701,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Rue Henri Barbusse",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV54",
+		"lat":39.074860,
+		"lon":-77.170174,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Watts Branch Parkway",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV42",
+		"lat":39.074512,
+		"lon":-77.168602,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Jefferson Branch",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT25",
+		"lat":39.038422,
+		"lon":-77.333397,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Arrowood Road",
+		"city":"Bethesda",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDBETHE33",
+		"lat":39.000954,
+		"lon":-77.154648,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Seneca Rd",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT26",
+		"lat":39.034271,
+		"lon":-77.339561,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Piney Pond",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT18",
+		"lat":38.981785,
+		"lon":-77.319817,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"APRSWXNET",
+		"city":"Germantown",
+		"state":"MD",
+		"country":"US",
+		"id":"MC6668",
+		"lat":39.088200,
+		"lon":-77.306297,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Old Farm",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV35",
+		"lat":39.052734,
+		"lon":-77.144875,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Canterwood",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT14",
+		"lat":39.032982,
+		"lon":-77.341896,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Water Falls Lane",
+		"city":"Great Falls",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAGREAT27",
+		"lat":38.973801,
+		"lon":-77.313957,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Sconset Lane",
+		"city":"McLean",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAMCLEA27",
+		"lat":38.955215,
+		"lon":-77.202095,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Deramus Farm Court",
+		"city":"McLean",
+		"state":"VA",
+		"country":"US",
+		"id":"KVAMCLEA37",
+		"lat":38.953854,
+		"lon":-77.275688,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"NewboldDrive",
+		"city":"Bethesda",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDBETHE9",
+		"lat":39.011738,
+		"lon":-77.140091,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Chancelet Court",
+		"city":"Rockville",
+		"state":"MD",
+		"country":"US",
+		"id":"KMDROCKV46",
+		"lat":39.055401,
+		"lon":-77.143372,
+		"distance_km":8,
+		"distance_mi":5
+		}
+		]
+		}
+		}
+	}
+}
